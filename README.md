@@ -15,8 +15,14 @@ This decentralized approach ensures transparency, security, and accessibility fo
 
 https://zkom.vercel.app/
 
+## Frontend:
+https://github.com/YanYuanFE/zcalk-web
+
+## Node:
+https://github.com/cryptonerdcn/zkom_node
+
 ## VideoDemo
 
-Under construction.
+https://www.youtube.com/watch?v=TqHkptQHamE
 
 ## Support by [Starknet Japan](https://twitter.com/StarknetJapan)
